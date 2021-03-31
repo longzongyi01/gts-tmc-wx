@@ -14,10 +14,10 @@
 
 ## 二、使用说明
 
-测试账号： yunying001 密码：tempus123
+测试账号： yunying001 密码：888888
 
 ```
-# tb-web-h5
+# gts-tmc-wx
 
 > uniapp
 > node.js (环境)
@@ -66,9 +66,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 四、关于作者
 
-作者：腾邦国际商业服务集团股份有限公司 
+作者：腾邦国际商业服务集团有限公司
 
-QQ 交流群 ：588329775
+联系方式：QQ:15998251
 
 
 
